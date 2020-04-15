@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\ResponsiPemrograman2894\ResponsiPemrograman2894\bin\Debug\netcoreapp3.1\ResponsiPemrograman2894.exe
+C:\Users\ASUS\source\repos\ResponsiPemrograman2894\ResponsiPemrograman2894\bin\Debug\netcoreapp3.1\ResponsiPemrograman2894.deps.json
+C:\Users\ASUS\source\repos\ResponsiPemrograman2894\ResponsiPemrograman2894\bin\Debug\netcoreapp3.1\ResponsiPemrograman2894.runtimeconfig.json
+C:\Users\ASUS\source\repos\ResponsiPemrograman2894\ResponsiPemrograman2894\bin\Debug\netcoreapp3.1\ResponsiPemrograman2894.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\ResponsiPemrograman2894\ResponsiPemrograman2894\bin\Debug\netcoreapp3.1\ResponsiPemrograman2894.dll
+C:\Users\ASUS\source\repos\ResponsiPemrograman2894\ResponsiPemrograman2894\bin\Debug\netcoreapp3.1\ResponsiPemrograman2894.pdb
+C:\Users\ASUS\source\repos\ResponsiPemrograman2894\ResponsiPemrograman2894\obj\Debug\netcoreapp3.1\ResponsiPemrograman2894.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\ResponsiPemrograman2894\ResponsiPemrograman2894\obj\Debug\netcoreapp3.1\ResponsiPemrograman2894.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ResponsiPemrograman2894\ResponsiPemrograman2894\obj\Debug\netcoreapp3.1\ResponsiPemrograman2894.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ResponsiPemrograman2894\ResponsiPemrograman2894\obj\Debug\netcoreapp3.1\ResponsiPemrograman2894.dll
+C:\Users\ASUS\source\repos\ResponsiPemrograman2894\ResponsiPemrograman2894\obj\Debug\netcoreapp3.1\ResponsiPemrograman2894.pdb
